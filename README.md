@@ -28,5 +28,5 @@ One of the biggest hurdles was making sure AI search results were accurate while
 - Frameworks: Flask 🌐 for the backend, html, js css ⚛️ for the front-end
 
 ## Try it out
-🔗 [Discover Alpha - Live Search Engine](#)  
+🔗 [Discover Alpha - Live Search Engine](https://anonymouscoderartist.github.io/Alpha-AI-Search-Engine-/)
 🔗 [GitHub Repo](https://github.com/AnonymousCoderArtist/Alpha-AI-Search-Engine-)
